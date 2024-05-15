@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Lilita+One&display=swap');
+body{
+   background-image: url(image/pexels-mantasink-18649252.jpg);
+   background-position: center;
+   block-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   
+}
+h1{
+    background-color: rgb(8, 236, 65);
+    color: rgb(232, 243, 223);
+    text-align: center;font-style: oblique;
+    font-family: "Permanent Marker", cursive;
+        
+}
+p{
+    color: rgb(8, 27, 24);font-size: x-large;font-style: inherit;
+    font-family: "Lilita One", sans-serif;
+       
+}
+#sample_id{
+    background-color: rgb(8, 8, 8);
+    color: rgb(105, 238, 16);
+    text-align: center;
+    font-style: oblique;
+    font-family: "Permanent Marker", cursive;
+    margin: 100px;
+    /*padding:  10px 1000px 20px 10px;*/
+    margin-bottom: auto;
+    margin-top: auto;
+    border: 20px solid red;
+}
+.sample_class{
+background-color: rgb(232, 236, 8);
+color: rgb(8, 27, 24);font-size: x-large;font-style: inherit;
+font-family: "Permanent Marker", cursive;
+}
+p{
+    color: rgb(8, 27, 24);font-size: x-large;font-style: inherit;
+    font-family: "Lilita One", sans-serif;
+       
+}
+.sample_class{
+background-color: rgb(232, 236, 8);
+color: rgb(8, 27, 24);font-size: x-large;font-style: inherit;
+font-family: "Lilita One", sans-serif;
+}
+p{
+    color: rgb(8, 27, 24);font-size: x-large;font-style: inherit;
+    font-family: "Lilita One", sans-serif;
+       
+}
+
+.sample_class{
+    background-color: rgb(232, 236, 8);
+    color: rgb(8, 27, 24);font-size: x-large;font-style: inherit;
+    font-family: "Lilita One", sans-serif;
+       
+}
+.sample_class{
+    background-color: rgb(232, 236, 8);
+    color: rgb(8, 27, 24);font-size: x-large;font-style: inherit;
+    font-family: "Lilita One", sans-serif;
+}
+       
+.sample_class{
+        background-color: rgb(232, 236, 8);
+        color: rgb(8, 27, 24);font-size: x-large;font-style: inherit;
+        font-family: "Lilita One", sans-serif;
+}
+.sample_class{
+            background-color: rgb(232, 236, 8);
+            color: rgb(8, 27, 24);font-size: x-large;font-style: inherit;
+            font-family: "Lilita One", sans-serif;
+}
+.sample_class{
+                background-color: rgb(232, 236, 8);
+                color: rgb(8, 27, 24);font-size: x-large;font-style: inherit;
+                font-family: "Lilita One", sans-serif;
+}
+p{
+    color: rgb(8, 27, 24);font-size: x-large;font-style: inherit;
+    font-family: "Lilita One", sans-serif;
+       
+}
+.box1{
+    width: 50px;
+    height: 50px;
+background-color: rgb(5, 7, 88);
+position: relative;
+top: 10px;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(245, 127, 127);
+    position: sticky;
+top: 10px;
+}
+.box3{
+    width: 50px;
+    height: 50px;
+background-color: rgb(194, 181, 7);
+position: sticky;
+bottom: 50px;
+}
